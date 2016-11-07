@@ -1,0 +1,17 @@
+#search {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.logo{
+    margin: 0 auto;
+    padding: 30px 30px;
+	text-align: center;
+}
+
+#txt_search {
+	margin: 30px 10px;
+	width: 500px;
+	height: 2em;
+	padding: 1px 5px;
+}
